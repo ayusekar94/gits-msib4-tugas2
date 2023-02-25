@@ -1,2 +1,2 @@
-Nama   : Ananda Ayu Sekar Wiranti
-Kampus : Politeknik Negeri Malang
+<br> Nama   : Ananda Ayu Sekar Wiranti
+<br> Kampus : Politeknik Negeri Malang
